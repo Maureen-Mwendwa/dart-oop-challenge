@@ -1,0 +1,26 @@
+ShoppingMall,FastPass,123 Main Street,50
+
+Restaurant,Italian,60,5:00am-11:00pm,4.5 Stars out of 5 Stars,4,FastPass,123 Main Street
+
+ClothingStore,Women's,Formal,500-8000 KSH,\u{1F600},all,FastPass,123 Main Street
+
+MovieTheater,10 Cloverfield Lane,13 Hours: The Secret Soldiers of Benghazi,2 Guns,21 Jump Street,300: Rise of an Empire,90 Minutes in Heaven,A Good Day to Die Hard,A Haunted House,A Long Way Down,A Most Violent Year,A Most Wanted Man,A Thousand Words,A Walk Among the Tombstones,A Walk in the Woods,Abraham Lincoln: Vampire Hunter,After Earth,Ain't Them Bodies Saints,Alex Cross,FastPass,123 Main Street
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
